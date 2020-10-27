@@ -21,4 +21,4 @@ print(f"Free : {get_size(swap.free)}")
 print(f"Used : {get_size(swap.used)}")
 print(f"Percentage : {swap.percent}%")
 
-#end
+#end code
